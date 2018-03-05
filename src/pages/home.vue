@@ -1,6 +1,6 @@
 <template>
     <panpel class="home">
-        <div slot="header"><a href="#">首页</a></div>
+        <div slot="header"><a href="#">首页啊啊啊</a></div>
         <div slot="body"></div>
     </panpel>
 </template>
